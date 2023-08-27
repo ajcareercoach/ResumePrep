@@ -1,0 +1,36 @@
+Hello Raj<interviewer name> or Hey Raj,
+
+[[ First of all, thank you so much for shortlisting me for this interview and giving me this great opportunity to introduce myself in this interiew panel. ]]
+
+[[ I'm Aris Ajai. People call out my name as "Aj" and currently living chennai city. Born in madurai but built and brought up in chennai. I'm a Commputer Science Postgrad. ]]
+
+[[ For past a year, I'm working as a AWS DevOps Engg with The <Company Name> which is located at Bangalore city. The company was established in the year of 2015 which focuses on Cloud Computing, ERP Solutions, SAP Solutions, Web Development, Moile Application Development, Digital Transformation Consulting, and Software Testing & Automation. ]]
+
+[[ Exp 4+:
+
+I've more than 4 years of experience in IT industry along with a year of experience in AWS Cloud Computing platform and its features which includes EC2, VPC, EBS, CloudWatch, CloudTrail, CloudFormmation, AutoScaling, CloudFront, IAM, RDS, Route53, VPC Peering, S3, EKS, Lambda, Elastic Load Balancer, AMI, SNS, SQS and so on.
+
+Along with cloud computing skills, good hands-on knowledge of source code management tools like GIT & Subversion. Experience in Linux Administration, Configuration Management, Release MManagement, Agile Project Management, Cloud Immplementation, Jenkins, Dockers, CI/CD Automation, Ansible, Maven, Kubernetes, GitHub and Terroform. ]]
+
+[[ Exp 1+:
+
+I've just over a year of experience in AWS Cloud Computing platform and its features which includes EC2, VPC, EBS, CloudWatch, CloudTrail, CloudFormmation, AutoScaling, CloudFront, IAM, RDS, Route53, VPC Peering, S3, EKS, Lambda, Elastic Load Balancer, AMI, SNS, SQS and so on.
+
+Along with cloud computing skills, good hands-on knowledge of source code management tools like GIT & Subversion. Experience in Linux Administration, Configuration Management, Release Management, Agile Project Management, Cloud Immplementation, Jenkins, Dockers, CI/CD Automation, Ansible, Maven, Kubernetes, GitHub and Terroform. ]]
+
+[[ I'm in client facing work culture which means I'm directly reporting to my clients instead of my company. ]]
+
+[[ Only for 4+ years of experince people:
+
+Before my current position, I was a Sr. Cloud engineer with <Company Name>. While working there, I committed to Cloud Computing Implementation, which has been my specialty for four years. I understand that a major part of this role with your firm focuses on leading cloud computing iplementation teams, which my previous experience has certainly prepared me for.
+
+]]
+
+[[ My nature of Work or day to day activities:
+
+Usually I start my day with checking emails & JIRA tickets based on client requirements then after checking notification which we're receiving from monitoring systems that setting up for Prod environment. Then ensuring that there is any critical alert unattended. If there is an alert generated fromm mmonitoring systems and no one acknowledged that alert yet, either I'll fix it myself or route it to teammate. Then checking if there is any ongoing issues on Prod enironment, fix it immediately. Then provide on floor support to development and testing team.   ]]
+
+
+ 
+
+ 
