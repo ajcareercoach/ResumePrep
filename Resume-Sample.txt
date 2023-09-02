@@ -1,0 +1,110 @@
+Profile Summary
+===============
+
+More than 8 years of experience in IT industry along with a year of experience working in Designing & Architeching solutions on public Cloud on AWS platform. 
+
+More than a year of experience working in Designing & Architeching solutions on public Cloud on AWS platform. 
+
+Highly experience in AWS Cloud platform and its features which includes EC2, VPC, EBS, AMI, SNS, RDS, EBS, CloudWatch, Cloud Trail, Cloud Formation AWS Config, Auto scaling, Cloud Front, IAM, S3, and R53. Good hands-on knowledge of Source Code Management (Version Control System) tools like Git and Subversion. Experience in Linux Administration, Configuration Management, Continuous Integration, Continuous Deployment, Release Management and Cloud Implementations. Experience with automation/ integration tools like Jenkins.
+
+KEY AREAS OF SPECIALISM
+========================
+
+1. Experienced in all phases of the Software Development Life Cycle (SDLC) with specific focus on the build and
+release and quality of Software and involved with teams that worked on Scrum, Agile Software Development and
+Waterfall Methodologies.
+
+2. Hands on experience with AWS Cloud Platform and its services which includes EC2, VPC, S3, IAM, EBS, ELB, Auto
+Scaling, DynamoDB, Cloud Watch, Cloud Trail, SNS, SES, SQS, RDS, LAMBDA, Elastic Beanstalk, Route 53, Light
+Sail, API Gateway.
+
+3. Hands on experience in branching, tagging and maintaining the version across the environments using SCM tools
+like GitHub, Subversion(SVN) on Linux and Windows platforms.
+
+4. Installed and configured GIT and communicating with the repositories in GITHUB.
+
+5. Implemented multiple CI/CD pipelines as a part of DevOps role for on-premises and cloud cloud-based software
+using Jenkins, Ansible, AWS, and Docker.
+
+6. Administered and Engineering Jenkins for managing weekly Build, Test and Deploy chain and GIT with
+Dev/Test/Prod Branching Model for weekly releases.
+
+7. Experienced in creating jobs, pipelines in Jenkins also worked with different Jenkins plugins to integrate with
+different service/tools.
+
+8. Production experience in large environments using Configuration Management tools Ansible, Chef and Puppet.
+
+9. Hands on Experience in using Tomcat and Apache web servers for deployments for hosting tools.
+
+10. Used JIRA as ticket tracking, change management and Agile/Scrum tool.
+
+11. As a Build & Release Engineer responsible for continuous delivery, working with different teams to deliver highquality applications to satisfy growing customer and business demands.
+
+EMPLOYMENT HISTORY
+===================
+
+Infomania Technology Solutions, Bangalore Jul 2019 - Present
+Lead AWS DevOps Engineer
+Clients: ebazaar, AppleGreen, Rhapsody Merchandising Services, etisalat
+Responsibilities:
+
+Responsible for effective provisioning, configuration, operation, and maintenance of systems hardware
+and software and overall infrastructure.
+
+Responsible for designing fault-tolerant mechanisms for keeping distributed systems healthy, and developing
+proactive monitoring back to DevOps and to the development teams.
+
+Implemented and maintained a farm of AWS solutions using EC2 instances, ELB's, S3, EBS, Auto Scaling
+Groups, SNS, VPC and RDS.
+
+Developed Cloud Formation templates to launch VPC's and instances in the AWS cloud.
+Used IAM to create new accounts, roles and groups and provisioned Web Servers in AWS and DNS route53
+records types.
+
+Configured S3 versioning and lifecycle policies to backup files and archive files in Glacier and configured
+Elastic Load Balancers with EC2 Autoscaling groups.
+
+Worked on monitoring, setting alarms and notifications for EC2 hosts using CloudWatch.
+
+Managed the developer code using GIT and migrated code bases and process to GIT/GitHub.
+
+Built Jenkins for enterprise infrastructure configuration and application deployments & checking out the code
+from GIT and use Ant/Maven to build jar, war and ear-artifacts.
+
+Automated the build and deployment Process using Jenkins jobs.
+
+Installing, configuring and administrating Jenkins CI tool using Chef on AWS EC2 instances.
+
+Configured various jobs in Jenkins for deployment of Java/Web applications and running test suites and
+responsible for CI environments.
+
+Worked on creation of custom Docker container images, tagging and pushing the images and worked on
+creating the Docker Containers and Docker consoles for managing the application life cycle.
+
+Deployed Docker Engines in virtualized Platforms for containerization of multiple applications.
+Managed local deployment in Kubernates, creating local cluster and deploying application containers.
+
+Implemented Ansible to manage all existing servers and automate the build/configuration of new servers.
+
+Created database tables that can store and retrieve any amount of data, and serve any level of request using
+DynamoDB and proficiency in multiple databases like MongoDB, ORACLE and MS SQL Server.
+
+Participated in the release cycle of the product which involves environments like Development QA UAT and
+Production.
+
+Installed and configured the infrastructure for DevOps implementation using Jenkins, Maven, Git per
+requirement, on board the applications in to DevOps infrastructure.
+
+Responsible for day-to-day management of all Development, Test, Stage, and Production for various
+enterprise applications.
+
+Implemented AWS client API to interact with different services as Console configuration for AWS EC2.
+
+Created Security Groups, configuring Inbound/Outbound rules, creating and importing Key pairs.
+
+Excellent in setting up monitoring tools like Amazon Cloud watch to monitor major metrics like CPU utilization,
+Load Balancer Latency.
+
+Environment: Linux, AWS, AWS CI/CD pipelines, GIT, GitHub, Jenkins, Maven, Ansible, ANT, Docker, Kubernates,
+
+Terraform, Chef, Puppet, JIRA, Shell Scripts, Bash, Python, JSON, YAML, Java, Apache, Tomcat, Nginx, IIS.
